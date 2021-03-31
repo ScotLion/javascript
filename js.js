@@ -6,6 +6,6 @@ function eventoOnload(){
 function eventoOnClique(){
     console.log("Sucesso");
 }
-
+//teste
 setTimeout(eventoOnload, 5000);
 
